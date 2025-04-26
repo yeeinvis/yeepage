@@ -1,2 +1,2 @@
 # yeepage
-a horrible startpage
+a startpage for browsers (but disgusting!)
